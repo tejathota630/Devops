@@ -1,2 +1,6 @@
 welcome to git
+<<<<<<< HEAD
 banglore
+=======
+git changes to welcome file
+>>>>>>> cccda88dfa9502be541ed04865e89497f7773d09
